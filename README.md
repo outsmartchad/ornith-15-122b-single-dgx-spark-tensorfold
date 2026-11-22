@@ -4,6 +4,8 @@ TensorFold’s native Zig runtime serves the Ornith 1.5 122B EXL3 EAQv1 4 bpw ch
 
 [Benchmarks](#benchmarks) · [Runtime](#runtime) · [Quick start](#quick-start) · [Raw results](results/benchmark-2026-11-21.json)
 
+[How the model and recipe work](docs/how-it-works.md)
+
 ## Benchmarks
 
 Measured November 21, 2026 on one NVIDIA GB10 DGX Spark. The benchmark sent direct streaming requests to the localhost model API. Other model servers were paused.
